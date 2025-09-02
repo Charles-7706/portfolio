@@ -29,6 +29,4 @@ The profile page is designed as a clean, minimal, and accessible web page. It ca
 - Meta tags for SEO
 - Semantic tags for structure
 
----
-
-## 📂 File Structure
+--
